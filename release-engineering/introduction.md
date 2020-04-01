@@ -1,6 +1,6 @@
 ---
 description: >-
-  RE is the difference between building software in small teams/startups and
+  RE (Release Engineering) is the difference between building software in small teams/startups and
   manufacturing software in an industrial way that is repeatable, gives
   predictable results, and scales well.
 ---
