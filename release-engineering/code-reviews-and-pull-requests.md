@@ -8,7 +8,7 @@ description: >-
 
 Code reviews ensure standards and guidelines are respected and followed, and the larger team learns about the new code being written. Sure, code reviews can \(and do!\) help with catching mistakes early on, but in large codebases, techniques like test-driven-development are far more effective for writing bug-free code.
 
-Core reviews are an opportunity for discussion and evaluation; a chance for novice engineers to get feedback on their ideas from senior ones, and a time for senior engineers to walk the rest of the team through their thought process.
+Code reviews are an opportunity for discussion and evaluation; a chance for novice engineers to get feedback on their ideas from senior ones, and a time for senior engineers to walk the rest of the team through their thought process.
 
 ## Most important points
 
