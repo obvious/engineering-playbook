@@ -1,6 +1,6 @@
 # Running a Retrospective at Obvious
 
-A retrospective is a astructured meeting to review the process and outcomes of a particular project. A sample board is available on Trello [here](https://trello.com/invite/b/fyAux5Ay/400d59e42f8b4792c70561ca99acbef0/context-for-retrospective-date ) and Airtable [here](https://airtable.com/shrRsqsGmbWFgUHnv).
+A retrospective is a astructured meeting to review the process and outcomes of a particular project. A sample board is available on Trello [here](https://trello.com/invite/b/fyAux5Ay/400d59e42f8b4792c70561ca99acbef0/context-for-retrospective-date) and Airtable [here](https://airtable.com/shrRsqsGmbWFgUHnv).
 
 ## Objective
 
