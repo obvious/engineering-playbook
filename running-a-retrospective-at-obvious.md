@@ -13,7 +13,7 @@ This allows the team to work towards fixing those pain points, to get better in 
 
 The aim of any retrospective is to learn. It is a place that is safe to be honest and voice all opinions. Remember, something that went wrong is a reflection not on the team member but on the processes the team has put together. It's the team vs the problem, not the members of the team against each other.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 __Prime directive:__ Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 {% endhint %}
 
