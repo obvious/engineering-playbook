@@ -74,7 +74,7 @@ Refer to these links
 - Introduction to functional programming
   - Comparing imperative programming with functional programming
   - Why use functional programming now
-  - Pure functions
+  - [Pure functions](https://engineering.obvious.in/learning/lessons/001-function-purity)
     - Introduction
       - No matter how many times the function is called using the same input parameters the output will always remain the same
       - `Input` -> `Function` -> `Output`
