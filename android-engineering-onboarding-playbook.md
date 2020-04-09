@@ -56,6 +56,8 @@ Refer to [this](https://engineering.obvious.in/daily-standup-meetings)
 
 #### Product Requirements Document (PRD)
 
+Refer to [this](https://engineering.obvious.in/product-requirements-document)
+
 ### Trunk Based Development
 
 - `master` branch should always be stable and daily branches should be used
