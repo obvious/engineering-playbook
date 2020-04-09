@@ -6,6 +6,7 @@
 * [System design & architecture](system-design-and-architecture/README.md)
   * [Refactoring](system-design-and-architecture/refactoring.md)
 * [Pivotal Tracker](pivotal-tracker.md)
+* [Product Requirements Document](product-requirements-document.md)
 * [Architecture Decision Records (ADR)](how-to-adr.md)
 
 ## Meetings
