@@ -3,6 +3,7 @@
 * [Our Engineering Philosophy](README.md)
 * [Iteration Planning Meetings](iteration-planning-meetings.md)
 * [Daily Standup Meetings](daily-standup-meetings.md)
+* [Running a Retrospective at Obvious](running-a-retrospective-at-obvious.md)
 * [System design & architecture](system-design-and-architecture/README.md)
   * [Refactoring](system-design-and-architecture/refactoring.md)
 * [Pivotal Tracker](pivotal-tracker.md)
