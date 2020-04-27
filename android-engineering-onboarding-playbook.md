@@ -40,17 +40,7 @@ Refer to these links
 - Introduction to functional programming
   - Comparing imperative programming with functional programming
   - Why use functional programming now
-  - [Pure functions](https://engineering.obvious.in/learning/lessons/001-function-purity)
-    - Introduction
-      - No matter how many times the function is called using the same input parameters the output will always remain the same
-      - `Input` -> `Function` -> `Output`
-    - Advantages
-      - Pure functions are small, precise, simple, safe and straight-forward to reuse.
-      - A pure function guarantees that they will not modify anything outside their body.
-      - You can use them with confidence because you know that they take input and give output.
-      - They do not surprise you.
-    - Example
-      - If there is a function which returns the addition of 2 numbers, no matter how many times you send in the same 2 numbers the output will remain always the same.
+  - [Pure functions](learning/lessons/001-function-purity.md)
   - Functional Core and Imperative Shell
 - Introduction to State Machines
 - Introduction to [Mobius](https://github.com/spotify/mobius)
