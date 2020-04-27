@@ -22,41 +22,41 @@
 - [Daily Standup Meetings](daily-standup-meetings.md)
 - [Product Requirements Document (PRD)](product-requirements-document.md)
 
-### Trunk Based Development
-
-- `master` branch should always be stable and daily branches should be used
-- Small PRs
-- Allows for continuous deployment
-- Rebases instead of merging
-- Code reviews & Pull Requests
-
-Refer to these links
-
-- [Obvious Doc](https://engineering.obvious.in/release-engineering/trunk-based-development)
-- [Popular website](https://trunkbaseddevelopment.com/)
-
 ## Technical
 
-- Introduction to functional programming
+- Trunk Based Development (TBD)
+  - `master` branch should always be stable and daily branches should be used
+  - Small PRs
+  - Allows for continuous deployment
+  - `rebase` instead of `merge`
+  - Refer these
+    - [Obvious Doc](release-engineering/trunk-based-development.md)
+    - [Popular website](https://trunkbaseddevelopment.com/)
+- [Code Reviews & Pull Requests](release-engineering/code-reviews-and-pull-requests.md)
+- Estimation Practices
+- Functional programming
+  - [Pure functions](learning/lessons/001-function-purity.md)
   - Comparing imperative programming with functional programming
   - Why use functional programming now
-  - [Pure functions](learning/lessons/001-function-purity.md)
   - Functional Core and Imperative Shell
+- Testing
+  - Unit, Integration & End-to-End
+  - Behavior + Property
+- Test-Driven Development
+  - Principles
+  - YAGNI (You Aren't Gonna Need It)
+  - The red, green and refactor cycle
 - Introduction to State Machines
 - Introduction to [Mobius](https://github.com/spotify/mobius)
-  - [Mobius Wiki](https://github.com/spotify/mobius)
+  - [Mobius Wiki](https://github.com/spotify/mobius/wiki)
   - Concepts
-    - MobiusLoop
+    - Mobius-Loop
     - Model
     - Event
     - Effect
     - Update
     - EffectHandler
     - EventSource
-  - TDD with Mobius
-    - Principles
-    - YAGNI (You Aren't Gonna Need It)
-    - The red, green and refactor cycle
   - Examples
     - Counter
     - Login
