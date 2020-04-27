@@ -8,6 +8,7 @@
 * [Pivotal Tracker](pivotal-tracker.md)
 * [Product Requirements Document](product-requirements-document.md)
 * [Architecture Decision Records (ADR)](how-to-adr.md)
+* [Android Engineering Onboarding Guide](android-engineering-onboarding-playbook.md)
 
 ## Meetings
 * [Iteration Planning Meetings](iteration-planning-meetings.md)
