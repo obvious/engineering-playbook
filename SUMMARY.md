@@ -15,6 +15,8 @@
 * [Git commit messages](release-engineering/git-commit-messages.md)
 * [Code reviews & pull requests](release-engineering/code-reviews-and-pull-requests.md)
 * [Trunk-based development](release-engineering/trunk-based-development.md)
+* [Service Dependencies](release-engineering/service-dependencies.md)
+* [Tooling & infrastructure](release-engineering/tooling-infrastructure.md)
 
 ## Learning
 
