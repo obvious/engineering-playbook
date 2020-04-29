@@ -17,6 +17,7 @@
 * [Trunk-based development](release-engineering/trunk-based-development.md)
 * [Service Dependencies](release-engineering/service-dependencies.md)
 * [Tooling & infrastructure](release-engineering/tooling-infrastructure.md)
+* [Git commands & workflows](release-engineering/git-commands-workflows.md)
 
 ## Learning
 
