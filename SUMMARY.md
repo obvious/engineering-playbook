@@ -8,6 +8,7 @@
 * [System design & architecture](system-design-and-architecture/README.md)
   * [Refactoring](system-design-and-architecture/refactoring.md)
 * [Pivotal Tracker](pivotal-tracker.md)
+* [How to ADR](how-to-adr.md)
 
 ## Release Engineering
 
