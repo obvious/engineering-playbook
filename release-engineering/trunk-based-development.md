@@ -1,5 +1,5 @@
 ---
-description: From Feature-based Delivery to Timeline-based Delivery. See [trunkbaseddevelopment.com](https://trunkbaseddevelopment.com/) for the official documentation.
+description: From Feature-based Delivery to Timeline-based Delivery. See trunkbaseddevelopment.com for the official documentation.
 ---
 
 # Trunk-based development
