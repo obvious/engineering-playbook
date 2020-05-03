@@ -1,3 +1,7 @@
+---
+description: 'Good to remember, often repeated.'
+---
+
 # First Principles
 
 ## We review code, before we write code
