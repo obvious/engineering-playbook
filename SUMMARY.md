@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Our Engineering Philosophy](README.md)
-* [First Principles of Engineering](first-principles-of-engineering.md)
+* [First Principles](first-principles-of-engineering.md)
 * [Iteration Planning Meetings](iteration-planning-meetings.md)
 * [Daily Standup Meetings](daily-standup-meetings.md)
 * [Running a Retrospective at Obvious](running-a-retrospective-at-obvious.md)

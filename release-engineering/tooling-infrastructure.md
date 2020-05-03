@@ -1,35 +1,34 @@
 # Tooling & infrastructure
 
-## Code 
+## Code
 
-{% embed url="https://github.com" %}
+{% embed url="https://github.com" caption="" %}
 
 ## Crash reporting
 
-{% embed url="https://Sentry.io" %}
+{% embed url="https://Sentry.io" caption="" %}
 
 ## Continuous Integration
 
-{% embed url="https://Bitrise.io" %}
+{% embed url="https://Bitrise.io" caption="" %}
 
-{% embed url="https://semaphoreci.com" %}
+{% embed url="https://semaphoreci.com" caption="" %}
 
-{% embed url="http://codeclimate.com/" %}
+{% embed url="http://codeclimate.com/" caption="" %}
 
-{% embed url="https://pullreminders.com" %}
+{% embed url="https://pullreminders.com" caption="" %}
 
-{% embed url="https://github.com/tibdex/autorebase" %}
+{% embed url="https://github.com/tibdex/autorebase" caption="" %}
 
 ## User and System Analytics
 
-{% embed url="https://heap.io" %}
+{% embed url="https://heap.io" caption="" %}
 
-{% embed url="https://metabase.com" %}
+{% embed url="https://metabase.com" caption="" %}
 
 ## Communication
 
-{% embed url="https://slack.com" %}
+{% embed url="https://slack.com" caption="" %}
 
-{% embed url="https://zoom.us" %}
-
+{% embed url="https://zoom.us" caption="" %}
 

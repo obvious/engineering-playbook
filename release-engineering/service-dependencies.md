@@ -2,9 +2,9 @@
 description: List of services Obvious has used in past projects
 ---
 
-# Service dependencies
+# Service Dependencies
 
-### Simple \(Android app\)
+## Simple \(Android app\)
 
 * Remote Mobile App Configuration Database
   * [Firebase](https://firebase.google.com/)
@@ -17,7 +17,7 @@ description: List of services Obvious has used in past projects
 * App Deployment
   * [Google Play Console](https://play.google.com/apps/publish/)
 
-### Simple Dashboard & API \(Ruby on Rails web app\)
+## Simple Dashboard & API \(Ruby on Rails web app\)
 
 * Application Hosting \(Ubuntu Linux, nginx, Passenger\)
   * [AWS EC2](https://aws.amazon.com/ec2/)
@@ -41,3 +41,4 @@ description: List of services Obvious has used in past projects
   * [Google Analytics](https://analytics.google.com/)
 * Continuous Integration & Deployment
   * [Semaphore](https://semaphoreci.com/)
+

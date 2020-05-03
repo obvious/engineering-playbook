@@ -10,11 +10,11 @@
 
 ## We are Product Engineers
 
-We do more than just write code, we’re more than just a feature factory. 
+We do more than just write code, we’re more than just a feature factory.
 
-We are co-owners of the product experience. We look at the full picture to understand the value and impact of what we’re building. 
+We are co-owners of the product experience. We look at the full picture to understand the value and impact of what we’re building.
 
-We contribute to the full spectrum of a product’s development; from PRD [(Product Requirements Document)](https://en.wikipedia.org/wiki/Product_requirements_document) to code to tests. 
+We contribute to the full spectrum of a product’s development; from PRD [\(Product Requirements Document\)](https://en.wikipedia.org/wiki/Product_requirements_document) to code to tests.
 
 We regularly talk to customers and end users; we rigorously analyse and measure the performance of features, and unearth opportunities to improve.
 
@@ -52,6 +52,4 @@ Trust is more important than control!
 * Fear kills trust and innovation
   * If failure gets punished, no one will try new things
   * The organisation as a whole will suffer! 
-
-
 
