@@ -3,13 +3,15 @@
 * [Our Engineering Philosophy](README.md)
 * [First Principles](first-principles-of-engineering.md)
 * [Communication tools](communication-tools.md)
-* [Iteration Planning Meetings](iteration-planning-meetings.md)
-* [Daily Standup Meetings](daily-standup-meetings.md)
-* [Running a Retro \(retrospective\)](running-a-retrospective-at-obvious.md)
 * [System design & architecture](system-design-and-architecture/README.md)
   * [Refactoring](system-design-and-architecture/refactoring.md)
 * [Pivotal Tracker](pivotal-tracker.md)
-* [How to ADR](how-to-adr.md)
+* [Architecture Decision Records (ADR)](how-to-adr.md)
+
+## Meetings
+* [Iteration Planning Meetings](iteration-planning-meetings.md)
+* [Daily Standup Meetings](daily-standup-meetings.md)
+* [Running a Retro \(retrospective\)](running-a-retrospective-at-obvious.md)
 
 ## Release Engineering
 
