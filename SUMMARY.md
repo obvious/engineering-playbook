@@ -2,6 +2,7 @@
 
 * [Our Engineering Philosophy](README.md)
 * [First Principles](first-principles-of-engineering.md)
+* [Communication tools](communication-tools.md)
 * [Iteration Planning Meetings](iteration-planning-meetings.md)
 * [Daily Standup Meetings](daily-standup-meetings.md)
 * [Running a Retro \(retrospective\)](running-a-retrospective-at-obvious.md)
