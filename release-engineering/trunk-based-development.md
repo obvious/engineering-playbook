@@ -45,7 +45,7 @@ There are some themes that emerge in this familiar scenario:
 * **Favouring the Rockstar Programmer** over the team, since it is considered acceptable and natural that a great engineer will disappear for a few days or weeks, and come back with all the work done in a branch far, far away from the rest of the codebase. Merging is the team’s collective problem, unfortunately. 
 * **Emotional turmoil** and a high probability of burnout for everyone in the team especially as The Date inches closer. 
 
-  So what is the solution to this problem? We need to increase the frequency of the trains, of course. Hundreds of them every day!
+So what is the solution to this problem? We need to increase the frequency of the trains, of course. Hundreds of them every day!
 
 ## Timeline-based Delivery a.k.a. Daily Success
 
@@ -54,7 +54,9 @@ For software engineering, that implies…
 * We increase the frequency of production releases to as frequent as possible -- daily, or even hourly! 
 * We drastically reduce the size of changes that are merged into the trunk. As each merge request becomes small, reviewing it becomes far easier. 
 * Since each merge integrates only a small number of changes, the possibility of conflicts also rapidly goes down. When conflicts do happen, resolving them is fast and painless. 
-* Changes arrive into the codebase on a daily basis, which means the team is aware of the state of work that is in progress. Any impact from the changes being done is felt very early in the process, giving the team ample time to reach a resolution. 
+* Changes arrive into the codebase on a daily basis, which means the team is aware of the state of work that is in progress. Any impact from the changes being done is felt very early in the process, giving the team ample time to reach a resolution.
+
+![Trunk Based Development Commits](../assets/tbd-commits.png) 
 
 All of this sounds great in theory and it makes sense. How about in practice?
 
