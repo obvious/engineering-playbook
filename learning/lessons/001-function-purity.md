@@ -104,7 +104,7 @@ A pure function is a function that is both:
 
 ## Why pure functions?
 
-There are [many](http://blog.agiledeveloper.com/2015/12/benefits-of-pure-functions.html) benefits to writing pure functions. We won't dicuss them all here, but here are some of the reasons which we like:
+There are [many](http://blog.agiledeveloper.com/2015/12/benefits-of-pure-functions.html) benefits to writing pure functions. We won't discuss them all here, but here are some of the reasons which we like:
 
 ### Easier to test
 
