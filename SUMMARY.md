@@ -13,7 +13,7 @@
 ## Meetings
 * [Iteration Planning Meetings](iteration-planning-meetings.md)
 * [Daily Standup Meetings](daily-standup-meetings.md)
-* [Retro meetings \(retrospective\)](retrospective-meetings.md)
+* [Retro meetings \(retrospective\)](running-a-retrospective-at-obvious.md)
 
 ## Release Engineering
 
