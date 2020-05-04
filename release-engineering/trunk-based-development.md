@@ -56,7 +56,7 @@ For software engineering, that implies…
 * Since each merge integrates only a small number of changes, the possibility of conflicts also rapidly goes down. When conflicts do happen, resolving them is fast and painless. 
 * Changes arrive into the codebase on a daily basis, which means the team is aware of the state of work that is in progress. Any impact from the changes being done is felt very early in the process, giving the team ample time to reach a resolution.
 
-![Trunk Based Development Commits](../assets/tbd-commits.png) 
+![Commit Timeline in TBD](../assets/tbd-commits.png) 
 
 All of this sounds great in theory and it makes sense. How about in practice?
 
