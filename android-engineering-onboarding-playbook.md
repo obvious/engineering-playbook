@@ -17,21 +17,14 @@
 
 ### Engineering Philosophy
 
-- [First Principles of Engineering](first-principles-of-engineering.md)
+- [First Principles](first-principles-of-engineering.md)
 - [Iteration Planning Meetings](iteration-planning-meetings.md)
 - [Daily Standup Meetings](daily-standup-meetings.md)
 - [Product Requirements Document (PRD)](product-requirements-document.md)
 
 ## Technical
 
-- Trunk Based Development (TBD)
-  - `master` branch should always be stable and daily branches should be used
-  - Small PRs
-  - Allows for continuous deployment
-  - `rebase` instead of `merge`
-  - Refer these
-    - [Obvious Doc](release-engineering/trunk-based-development.md)
-    - [Popular website](https://trunkbaseddevelopment.com/)
+- [Trunk Based Development (TBD)](release-engineering/trunk-based-development.md)
 - [Code Reviews & Pull Requests](release-engineering/code-reviews-and-pull-requests.md)
 - Estimation Practices
 - Functional programming
@@ -60,3 +53,4 @@
   - Examples
     - Counter
     - Login
+    - Recreate your take-home assignment with Mobius
