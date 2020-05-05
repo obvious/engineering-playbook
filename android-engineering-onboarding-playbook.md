@@ -42,14 +42,7 @@
 - Introduction to State Machines
 - Introduction to [Mobius](https://github.com/spotify/mobius)
   - [Mobius Wiki](https://github.com/spotify/mobius/wiki)
-  - Concepts
-    - Mobius-Loop
-    - Model
-    - Event
-    - Effect
-    - Update
-    - EffectHandler
-    - EventSource
+  - [First Week of Mobius](https://docs.google.com/document/d/1GHOqVAujkPKeKLh8m_teVFszqD8-UcexMwFqczAtaT0)
   - Examples
     - Counter
     - Login
