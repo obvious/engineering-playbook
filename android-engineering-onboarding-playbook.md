@@ -30,7 +30,7 @@
 - Functional programming
   - [Pure functions](learning/lessons/001-function-purity.md)
   - Comparing imperative programming with functional programming
-  - Why use functional programming now
+  - Why use functional programming now?
     Writing our business logic using functional programming principles makes it easy for us to unit-test those parts of our code-base.
   - Functional Core and Imperative Shell
     - Boundaries Talk by Gary Bernhardt - [YouTube](https://www.youtube.com/watch?v=yTkzNHF6rMs) / [Original Website](https://www.destroyallsoftware.com/talks/boundaries)
