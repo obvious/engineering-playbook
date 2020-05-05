@@ -32,6 +32,8 @@
   - Comparing imperative programming with functional programming
   - Why use functional programming now
   - Functional Core and Imperative Shell
+    - Boundaries Talk by Gary Bernhardt - [YouTube](https://www.youtube.com/watch?v=yTkzNHF6rMs) / [Original Website](https://www.destroyallsoftware.com/talks/boundaries)
+    - Usage of Functional Core & Imperative Shell in above talk - [Video Link](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 - Testing
   - Unit, Integration & End-to-End
   - Behavior + Property
