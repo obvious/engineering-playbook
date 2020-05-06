@@ -1,4 +1,4 @@
-# How to ADR
+# Architecture Decision Records \(ADR\)
 
 ## Context
 

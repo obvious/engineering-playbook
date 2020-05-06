@@ -62,7 +62,7 @@ On the surface, this might seem to be an idempotent function since it does not u
 
 This makes the input that is being passed to the `addDaysToDate` function mutable. This will generally be a problem in multi-threaded environments if the `date` instance being passed to the `addDaysToDate` method is modified from another thread while the `addDaysToDate` method is executing.
 
-This is a problem with shared mutable state in general, which we will talk about in another [lesson]().
+This is a problem with shared mutable state in general, which we will talk about in another [lesson](001-function-purity.md).
 
 So if we needed to make this function actually idempotent, we could do something like this:
 
@@ -97,7 +97,7 @@ It is a fairly common operation to add log statements to verify logic. However, 
 
 ### Summary
 
-A pure function is a function that is both: 
+A pure function is a function that is both:
 
 1. Idempotent
 2. Has no side effects

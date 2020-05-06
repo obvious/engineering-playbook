@@ -4,6 +4,10 @@ description: 'Good to remember, often repeated.'
 
 # First Principles
 
+{% hint style="info" %}
+This text is a work-in-progress.
+{% endhint %}
+
 ## We review code, before we write code
 
 Any code that has been written and is pending review is the one closest to being able to generate value. For that piece of code, effort and time has been invested by multiple people, CI pipelines have run, builds have been generated, etc. 

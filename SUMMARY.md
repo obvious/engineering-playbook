@@ -7,14 +7,15 @@
   * [Refactoring](system-design-and-architecture/refactoring.md)
 * [Pivotal Tracker](pivotal-tracker.md)
 * [Product Requirements Document](product-requirements-document.md)
-* [Architecture Decision Records (ADR)](how-to-adr.md)
+* [Architecture Decision Records \(ADR\)](how-to-adr.md)
 * [Acronyms](acronyms.md)
 * [Android Engineering Onboarding Guide](android-engineering-onboarding-playbook.md)
 
 ## Meetings
-* [Iteration Planning Meetings](iteration-planning-meetings.md)
-* [Daily Standup Meetings](daily-standup-meetings.md)
-* [Retro meetings \(retrospective\)](running-a-retrospective-at-obvious.md)
+
+* [Iteration Planning Meetings](meetings/iteration-planning-meetings.md)
+* [Daily Standup Meetings](meetings/daily-standup-meetings.md)
+* [Retro meetings \(retrospective\)](meetings/running-a-retrospective-at-obvious.md)
 
 ## Release Engineering
 
