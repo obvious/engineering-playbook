@@ -38,3 +38,6 @@ You can automate this using [a tool like PullAssigner](https://pullpanda.com/ass
 * When commenting on an intermediate commit in a PR, one should first make sure that the comment makes sense when the complete PR is seen as a whole. Because the author may have already addressed the concern in another commit down the PR.
 * If you're reviewing on github.com itself, there are [handy keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts#changes-in-pull-requests) you can use! 
 
+## More reading material
+* [https://google.github.io/eng-practices/review/reviewer/](https://google.github.io/eng-practices/review/reviewer/), on the Google engineering practices website.
+
