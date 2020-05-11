@@ -1,4 +1,4 @@
-# Our Engineering Philosophy
+# Welcome!
 
 > Software engineering is not computer science,  
 > And computer science is not coding;

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Our Engineering Philosophy](README.md)
+* [Welcome!](README.md)
 * [First Principles](first-principles-of-engineering.md)
 * [Communication tools](communication-tools.md)
 * [Acronyms](acronyms.md)
