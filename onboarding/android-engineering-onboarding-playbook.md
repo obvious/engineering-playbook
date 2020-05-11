@@ -17,7 +17,7 @@
 
 ## Technical
 
-* [Trunk Based Development \(TBD\)](../release-engineering/trunk-based-development.md)
+* [Trunk Based Development \(TBD\)](../release-engineering/trunk-based-development/)
 * [Code Reviews & Pull Requests](../release-engineering/code-reviews-and-pull-requests.md)
 * Estimation Practices
 * Functional programming
