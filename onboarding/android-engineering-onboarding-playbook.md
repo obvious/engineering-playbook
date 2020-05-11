@@ -2,13 +2,6 @@
 
 ## Non-Technical
 
-### History of Obvious
-
-* 7 High Street
-* Edward House
-* Primrose Road
-* Residency Road
-
 ### Consulting vs Contracting
 
 * Greenfield vs Brownfield
