@@ -5,6 +5,13 @@
 * [Communication tools](communication-tools.md)
 * [Acronyms](acronyms.md)
 
+## Engineering Onboarding <a id="onboarding"></a>
+
+* [Onboarding Guide](onboarding/android-engineering-onboarding-playbook.md)
+* [Lessons](onboarding/lessons/README.md)
+  * [001 - Function Purity](onboarding/lessons/001-function-purity.md)
+  * [WIP - Shared Mutable State](onboarding/lessons/wip-shared-mutable-state.md)
+
 ## System design & Architecture
 
 * [Introduction](system-design-and-architecture/introduction.md)
@@ -27,20 +34,12 @@
 * [Tooling & infrastructure](release-engineering/tooling-infrastructure.md)
 * [Git commands & workflows](release-engineering/git-commands-workflows.md)
 
-## Learning
-
-* [Vital reading material](learning/vital-reading-material.md)
-
-## Engineering Onboarding <a id="onboarding"></a>
-
-* [Onboarding Guide](onboarding/android-engineering-onboarding-playbook.md)
-* [Lessons](onboarding/lessons/README.md)
-  * [001 - Function Purity](onboarding/lessons/001-function-purity.md)
-  * [WIP - Shared Mutable State](onboarding/lessons/wip-shared-mutable-state.md)
-
 ## Project Management
 
 * [Product Requirements Document](project-management/product-requirements-document.md)
 * [Pivotal Tracker](project-management/pivotal-tracker.md)
-* [Untitled](project-management/untitled.md)
+
+## Learning
+
+* [Vital reading material](learning/vital-reading-material.md)
 
