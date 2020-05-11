@@ -13,7 +13,7 @@
 * [First Principles](../first-principles-of-engineering.md)
 * [Iteration Planning Meetings](../meetings/iteration-planning-meetings.md)
 * [Daily Standup Meetings](../meetings/daily-standup-meetings.md)
-* [Product Requirements Document \(PRD\)](../product-requirements-document.md)
+* [Product Requirements Document \(PRD\)](../project-management/product-requirements-document.md)
 
 ## Technical
 

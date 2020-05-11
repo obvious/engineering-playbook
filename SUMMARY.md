@@ -4,8 +4,6 @@
 * [First Principles](first-principles-of-engineering.md)
 * [Communication tools](communication-tools.md)
 * [Acronyms](acronyms.md)
-* [Pivotal Tracker](pivotal-tracker.md)
-* [Product Requirements Document](product-requirements-document.md)
 
 ## System design & Architecture
 
@@ -39,4 +37,10 @@
 * [Lessons](onboarding/lessons/README.md)
   * [001 - Function Purity](onboarding/lessons/001-function-purity.md)
   * [WIP - Shared Mutable State](onboarding/lessons/wip-shared-mutable-state.md)
+
+## Project Management
+
+* [Product Requirements Document](project-management/product-requirements-document.md)
+* [Pivotal Tracker](project-management/pivotal-tracker.md)
+* [Untitled](project-management/untitled.md)
 
