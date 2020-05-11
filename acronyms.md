@@ -9,6 +9,6 @@ These are some of the acronyms we use at Obvious.
 | TBD | [Trunk-Based Development](release-engineering/trunk-based-development.md) |
 | OKR | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR) |
 | PRD | [Product Requirements Document](product-requirements-document.md) |
-| ADR | [Architecture Decision Record](how-to-adr.md) |
+| ADR | [Architecture Decision Record](system-design-and-architecture/how-to-adr.md) |
 | DQF | Delivery Quality Framework |
 

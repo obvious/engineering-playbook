@@ -3,12 +3,15 @@
 * [Our Engineering Philosophy](README.md)
 * [First Principles](first-principles-of-engineering.md)
 * [Communication tools](communication-tools.md)
-* [System design & architecture](system-design-and-architecture/README.md)
-  * [Refactoring](system-design-and-architecture/refactoring.md)
+* [Acronyms](acronyms.md)
 * [Pivotal Tracker](pivotal-tracker.md)
 * [Product Requirements Document](product-requirements-document.md)
-* [Architecture Decision Records \(ADR\)](how-to-adr.md)
-* [Acronyms](acronyms.md)
+
+## System design & Architecture
+
+* [Introduction](system-design-and-architecture/introduction.md)
+* [Refactoring](system-design-and-architecture/refactoring.md)
+* [Architecture Decision Records](system-design-and-architecture/how-to-adr.md)
 
 ## Meetings
 
@@ -29,12 +32,11 @@
 ## Learning
 
 * [Vital reading material](learning/vital-reading-material.md)
-* [Lessons](learning/lessons/README.md)
-  * [001 - Function Purity](learning/lessons/001-function-purity.md)
-  * [WIP - Shared Mutable State](learning/lessons/wip-shared-mutable-state.md)
-* [Subscriptions](learning/subscriptions.md)
 
 ## Engineering Onboarding <a id="onboarding"></a>
 
 * [Onboarding Guide](onboarding/android-engineering-onboarding-playbook.md)
+* [Lessons](onboarding/lessons/README.md)
+  * [001 - Function Purity](onboarding/lessons/001-function-purity.md)
+  * [WIP - Shared Mutable State](onboarding/lessons/wip-shared-mutable-state.md)
 

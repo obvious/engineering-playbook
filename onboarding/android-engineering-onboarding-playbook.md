@@ -21,7 +21,7 @@
 * [Code Reviews & Pull Requests](../release-engineering/code-reviews-and-pull-requests.md)
 * Estimation Practices
 * Functional programming
-  * [Pure functions](../learning/lessons/001-function-purity.md)
+  * [Pure functions](lessons/001-function-purity.md)
   * Comparing imperative programming with functional programming
   * Why use functional programming now?
 
