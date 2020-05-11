@@ -1,4 +1,4 @@
-# Android Engineering Onboarding Guide
+# Onboarding Guide
 
 ## Non-Technical
 
@@ -17,18 +17,18 @@
 
 ### Engineering Philosophy
 
-* [First Principles](first-principles-of-engineering.md)
-* [Iteration Planning Meetings](meetings/iteration-planning-meetings.md)
-* [Daily Standup Meetings](meetings/daily-standup-meetings.md)
-* [Product Requirements Document \(PRD\)](product-requirements-document.md)
+* [First Principles](../first-principles-of-engineering.md)
+* [Iteration Planning Meetings](../meetings/iteration-planning-meetings.md)
+* [Daily Standup Meetings](../meetings/daily-standup-meetings.md)
+* [Product Requirements Document \(PRD\)](../product-requirements-document.md)
 
 ## Technical
 
-* [Trunk Based Development \(TBD\)](release-engineering/trunk-based-development.md)
-* [Code Reviews & Pull Requests](release-engineering/code-reviews-and-pull-requests.md)
+* [Trunk Based Development \(TBD\)](../release-engineering/trunk-based-development.md)
+* [Code Reviews & Pull Requests](../release-engineering/code-reviews-and-pull-requests.md)
 * Estimation Practices
 * Functional programming
-  * [Pure functions](learning/lessons/001-function-purity.md)
+  * [Pure functions](../learning/lessons/001-function-purity.md)
   * Comparing imperative programming with functional programming
   * Why use functional programming now?
 

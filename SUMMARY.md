@@ -9,7 +9,6 @@
 * [Product Requirements Document](product-requirements-document.md)
 * [Architecture Decision Records \(ADR\)](how-to-adr.md)
 * [Acronyms](acronyms.md)
-* [Android Engineering Onboarding Guide](android-engineering-onboarding-playbook.md)
 
 ## Meetings
 
@@ -34,4 +33,8 @@
   * [001 - Function Purity](learning/lessons/001-function-purity.md)
   * [WIP - Shared Mutable State](learning/lessons/wip-shared-mutable-state.md)
 * [Subscriptions](learning/subscriptions.md)
+
+## Engineering Onboarding <a id="onboarding"></a>
+
+* [Onboarding Guide](onboarding/android-engineering-onboarding-playbook.md)
 

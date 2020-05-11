@@ -39,5 +39,6 @@ You can automate this using [a tool like PullAssigner](https://pullpanda.com/ass
 * If you're reviewing on github.com itself, there are [handy keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts#changes-in-pull-requests) you can use! 
 
 ## More reading material
+
 * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/), on the Google engineering practices website.
 
