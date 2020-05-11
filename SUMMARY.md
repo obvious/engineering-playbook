@@ -4,6 +4,7 @@
 * [First Principles](first-principles-of-engineering.md)
 * [Communication tools](communication-tools.md)
 * [Acronyms](acronyms.md)
+* [Vital reading material](vital-reading-material.md)
 
 ## Engineering Onboarding <a id="onboarding"></a>
 
@@ -38,8 +39,4 @@
 
 * [Product Requirements Document](project-management/product-requirements-document.md)
 * [Pivotal Tracker](project-management/pivotal-tracker.md)
-
-## Learning
-
-* [Vital reading material](learning/vital-reading-material.md)
 
