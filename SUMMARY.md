@@ -9,6 +9,7 @@
 ## Engineering Onboarding <a id="onboarding"></a>
 
 * [Onboarding Guide](onboarding/android-engineering-onboarding-playbook.md)
+* [Mobius onboarding Guide](onboarding/first-week-mobius.md) 
 * [Lessons](onboarding/lessons/README.md)
   * [001 - Function Purity](onboarding/lessons/001-function-purity.md)
   * [WIP - Shared Mutable State](onboarding/lessons/wip-shared-mutable-state.md)
