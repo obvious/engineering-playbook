@@ -49,7 +49,7 @@
 * Introduction to State Machines
 
 * Introduction to [Mobius](https://github.com/spotify/mobius/wiki)
-  * [First Week of Mobius](https://docs.google.com/document/d/1GHOqVAujkPKeKLh8m_teVFszqD8-UcexMwFqczAtaT0)
+  * [Mobius onboarding](../onboarding/first-week-mobius.md)
     * Pairing activity using Counter example
     * Test-driven development
     * Introduce the login example
