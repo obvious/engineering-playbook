@@ -10,6 +10,7 @@ description: All of these books are available in our Library.
 
 1. Hackers: Heroes of the Computer Revolution -- Steven Levy 
 2. The Soul of a New Machine -- Tracy Kidder 
+3. Revolution OS \(documentary movie\) \(2001\)
 
 ### People, teams & projects
 
